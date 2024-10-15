@@ -1,0 +1,2 @@
+# Machine Learning in C
+In this project, I implement some machine learning basics in C, including a cost function and activation function. The goal was to understand machine learning under the hood, and do it in C just because.
